@@ -6,5 +6,9 @@ namespace test17
         {
             InitializeComponent();
         }
+        public void dasd()
+        {
+            MessageBox.Show("fdfsdf");
+        }
     }
 }
